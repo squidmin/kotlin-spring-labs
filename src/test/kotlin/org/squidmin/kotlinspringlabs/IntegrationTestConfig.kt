@@ -12,4 +12,9 @@ class IntegrationTestConfig {
         return ExampleComponent()
     }
 
+//    @Bean
+//    fun exampleService(): ExampleService {
+//        return ExampleService()
+//    }
+
 }
